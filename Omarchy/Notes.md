@@ -2,7 +2,7 @@
 
 ## Neovim
 
-See [[Nvim/Keymaps|Nvim keymaps]] for the current completion suggestion controls.
+See [[Nvim/Keymaps|Nvim keymaps]] for completion controls and terminal selection shortcuts.
 
 ## Shortcuts
 
